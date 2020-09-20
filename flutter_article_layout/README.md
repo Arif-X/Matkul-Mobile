@@ -1,6 +1,6 @@
-# arif_18650045_row_column
+# flutter_article_layout
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
 

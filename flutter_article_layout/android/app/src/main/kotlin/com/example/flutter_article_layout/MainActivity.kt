@@ -1,4 +1,4 @@
-package com.example.arif_18650045_row_column
+package com.example.flutter_article_layout
 
 import io.flutter.embedding.android.FlutterActivity
 
